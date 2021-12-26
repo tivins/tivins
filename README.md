@@ -17,4 +17,5 @@ Repository | Brief | Status
 [database](https://github.com/tivins/database) | PDO Wrapper | [![Build Status](https://app.travis-ci.com/tivins/database.svg?branch=main)](https://app.travis-ci.com/tivins/database) [![CI](https://github.com/tivins/database/actions/workflows/php.yml/badge.svg)](https://github.com/tivins/database/actions/workflows/php.yml) [![Coverage Status](https://coveralls.io/repos/github/tivins/database/badge.svg?branch=main)](https://coveralls.io/github/tivins/database?branch=main)
 [database-spacial](https://github.com/tivins/database-spacial) | Spacial operations on database | not yet
 DbObject | ORM | not yet
+user-mgr | Account features | not set
 [framework](https://github.com/tivins/framework) | A framework for CLI/JSON/HTML application | not yet
