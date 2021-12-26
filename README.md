@@ -13,7 +13,7 @@ I'm building a PHP ecosystem of small, complete, fully-tested and useful compone
 
 Repository | Brief | Status
 ---|---|---
-[php-common](https://github.com/tivins/php-common) | PHP basic tools | [![Build Status](https://app.travis-ci.com/tivins/php-common.svg?branch=main)](https://app.travis-ci.com/tivins/php-common)
+[php-common](https://github.com/tivins/php-common) | PHP basic tools | [![Build Status](https://app.travis-ci.com/tivins/php-common.svg?branch=main)](https://app.travis-ci.com/tivins/php-common) [![Coverage Status](https://coveralls.io/repos/github/tivins/php-common/badge.svg?branch=main)](https://coveralls.io/github/tivins/php-common?branch=main)
 [database](https://github.com/tivins/database) | PDO Wrapper | [![Build Status](https://app.travis-ci.com/tivins/database.svg?branch=main)](https://app.travis-ci.com/tivins/database) [![CI](https://github.com/tivins/database/actions/workflows/php.yml/badge.svg)](https://github.com/tivins/database/actions/workflows/php.yml) [![Coverage Status](https://coveralls.io/repos/github/tivins/database/badge.svg?branch=main)](https://coveralls.io/github/tivins/database?branch=main)
 [database-spacial](https://github.com/tivins/database-spacial) | Spacial operations on database | not yet
 DbObject | ORM | not yet
