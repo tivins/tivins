@@ -12,17 +12,21 @@ aka [Syscall](https://stackoverflow.com/users/9193372/syscall), on StackOverflow
 --->
 ## Projects
 
-* [**taskman**](https://github.com/tivins/taskman) ![c++](https://img.shields.io/static/v1?label=C%2B%2B&message=20&color=informational)<br>
-  Project management for AI-assisted workflows. MCP server, CLI, web. Phases, milestones, tasks in SQLite.
+* [**taskman**](https://github.com/tivins/taskman) <br>
+  Project management for AI-assisted workflows. MCP server, CLI, web. Phases, milestones, tasks in SQLite.<br>
+  ![c++](https://img.shields.io/badge/c%2b%2b-0088cc)
   
-* [**comprendre**](https://github.com/tivins/comprendre) ![c++](https://img.shields.io/static/v1?label=Markdown&message=French&color=informational)<br>
-  Comprendre est un recueil de documentation en français sur divers thèmes, notamment en informatique (design patterns, concepts, frameworks, ...)
+* [**comprendre**](https://github.com/tivins/comprendre)<br>
+  Comprendre est un recueil de documentation en français sur divers thèmes, notamment en informatique (design patterns, concepts, frameworks, ...)<br>
+  ![markdown](https://img.shields.io/badge/markdown-0088cc)
 
-* [**vvm**](https://github.com/tivins/vvm) ![c++](https://img.shields.io/static/v1?label=C%2B%2B&message=20&color=informational)<br>
-  NL is a statically-typed, object-oriented programming language that combines the best features from multiple modern languages. 
+* [**vvm**](https://github.com/tivins/vvm)<br>
+  NL is a statically-typed, object-oriented programming language that combines the best features from multiple modern languages. <br>
+  ![c++](https://img.shields.io/badge/c%2b%2b-0088cc)
 
-* [**Deven**](https://github.com/tivins/deven) ![c++](https://img.shields.io/static/v1?label=Shell%and&message=python&color=informational)<br>
-  dockerized PHP development environment, with GPU / AI support.
+* [**Deven**](https://github.com/tivins/deven)<br>
+  dockerized PHP development environment, with GPU / AI support.<br>
+  ![c++](https://img.shields.io/badge/shell,python-0088cc)
 
 ### PoC
 
