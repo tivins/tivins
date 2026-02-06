@@ -21,12 +21,18 @@ aka [Syscall](https://stackoverflow.com/users/9193372/syscall), on StackOverflow
 * [**vvm**](https://github.com/tivins/vvm) ![c++](https://img.shields.io/static/v1?label=C%2B%2B&message=20&color=informational)<br>
   NL is a statically-typed, object-oriented programming language that combines the best features from multiple modern languages. 
 
+* [**Deven**](https://github.com/tivins/deven) ![c++](https://img.shields.io/static/v1?label=Shell%and&message=python&color=informational)<br>
+  dockerized PHP development environment, with GPU / AI support.
+
 ### PoC
 
-* [**automatic dependency injection**](https://github.com/tivins/poc-di-inferred) ![c++](https://img.shields.io/static/v1?label=PHP&message=8.3%2b&color=informational)<br>
+* [**automatic dependency injection**](https://github.com/tivins/poc-di-inferred) ![c++](https://img.shields.io/static/v1?label=PHP&message=8.3%2b&color=informational) 
+[![Tests][1]](https://github.com/tivins/poc-di-inferred/actions/workflows/tests.yml)<br>
   PoC for automatic dependency injection in PHP: the container instantiates a class by recursively resolving constructor parameter types (reflection) and respecting interface → implementation bindings. 
-
 
 ### Old 
 
 * https://github.com/tivins/lnprime ![c](https://img.shields.io/static/v1?label=C&message=pedantic&color=informational)
+
+
+[1]: https://github.com/tivins/poc-di-inferred/actions/workflows/tests.yml/badge.svg
