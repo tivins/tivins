@@ -1,35 +1,33 @@
 # tivins
 
-Développement (PHP, C++, C, Python) · France  
-[Site][site] · [Stack Overflow][so]
+Development (PHP, C++, C, Python) · France  
+[Website][site] · [Stack Overflow][so]
 
 ---
 
-### En cours
+### In Progress
 
-- [**taskman**][taskman] — Gestion de projet pour flux IA (MCP, CLI, web, SQLite).
-- [**comprendre**][comprendre] — Documentation en français (patterns, concepts, frameworks, tests).
-- [**vvm**][vvm] — Langage orienté objet, typé statiquement (C++).
-- [**Deven**][deven] — Environnement PHP dockerisé, support GPU / IA.
-- [**poc-di-inferred**][poc-di] — Injection de dépendances automatique en PHP (réflexion). [![Tests][poc-di-badge]][poc-di-actions]
+- [**taskman**][taskman] — Project management for AI pipelines (MCP, CLI, web, SQLite). [![Release][taskman-badge]][taskman-action]
+- [**comprendre**][comprendre] — Documentation in French (patterns, concepts, frameworks, tests).
+- [**vvm**][vvm] — Object-oriented, statically typed language (C++). ![vvm][vvm-badge]
+- [**Deven**][deven] — Dockerized PHP environment, GPU / AI support.
+- [**poc-di-inferred**][poc-di] — Automatic dependency injection in PHP (reflection). [![Tests][poc-di-badge]][poc-di-actions]
 - **vxEngine** — Vulkan based 3D realtime rendering engine.
 
-### Autres dépôts
+### Other Repositories
 
-- [**assistant**][assistant] — Assistant IA en terminal (Python).
-- [**libln**][libln] — Bibliothèque grands entiers en C.
-- [**lnprime**][lnprime] — Prochain nombre premier (utilise libln).
+- [**assistant**][assistant] — Terminal AI assistant (Python).
+- [**libln**][libln] — Big integers library in C.
+- [**lnprime**][lnprime] — Next prime number (uses libln).
 - [**webback**][webback]
 - [**webfront**][webfront]
 
 ### Legacy
 
-- [**database**][database] — Wrapper PDO fluide (PHP). Plus utilisé.
-- [**php-common**][php-common] — Déprécié ; briques utiles à conserver.
+- [**database**][database] — Fluid PDO wrapper (PHP). No longer used.
+- [**php-common**][php-common] — Deprecated; useful components to keep.
 
 ---
-
-*[Modifier cette page][readme] · Ajouter un dépôt : une ligne dans la section adaptée + référence en bas de page.*
 
 [site]: https://tivins.github.io
 [so]: https://stackoverflow.com/users/9193372/syscall
@@ -48,3 +46,6 @@ Développement (PHP, C++, C, Python) · France
 [php-common]: https://github.com/tivins/php-common
 [lnprime]: https://github.com/tivins/lnprime
 [readme]: https://github.com/tivins/tivins/edit/main/README.md
+[taskman-badge]: https://github.com/tivins/taskman/actions/workflows/release.yml/badge.svg
+[taskman-action]: https://github.com/tivins/taskman/actions/workflows/release.yml
+[vvm-badge]: https://github.com/tivins/vvm/actions/workflows/cmake-multi-platform.yml/badge.svg
