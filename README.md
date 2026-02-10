@@ -12,6 +12,7 @@ Development (PHP, C++, C, Python) · France
 - [**vvm**][vvm] — Object-oriented, statically typed language (C++). ![vvm][vvm-badge]
 - [**Deven**][deven] — Dockerized PHP environment, GPU / AI support.
 - [**poc-di-inferred**][poc-di] — Automatic dependency injection in PHP (reflection). [![Tests][poc-di-badge]][poc-di-actions]
+- [**poc-api-interface**](https://github.com/tivins/poc-api-interface) - API generated request/response DTOs, a typed handler interface - [![CI](https://github.com/tivins/poc-api-interface/actions/workflows/ci.yml/badge.svg)](https://github.com/tivins/poc-api-interface/actions/workflows/ci.yml)
 - **vxEngine** — Vulkan based 3D realtime rendering engine.
 
 ### Other Repositories
