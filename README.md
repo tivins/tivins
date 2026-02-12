@@ -19,6 +19,8 @@ Development (PHP, C++, C, Python) · France
 - [**API Interface and DTO**](https://github.com/tivins/poc-api-interface) — API generated request/response DTOs, a typed handler interface - [![CI](https://github.com/tivins/poc-api-interface/actions/workflows/ci.yml/badge.svg)](https://github.com/tivins/poc-api-interface/actions/workflows/ci.yml)
 - [**Liskov principle violation detector**](https://github.com/tivins/poc-liskov-check) — Detects Liskov Substitution Principle (LSP) violations in PHP Code - [![CI](https://github.com/tivins/poc-liskov-check/actions/workflows/ci.yml/badge.svg)](https://github.com/tivins/poc-liskov-check/actions/workflows/ci.yml)
 
+---
+
 
 > [!NOTE] 
 > Checkout [tivins.github.io][site]!
