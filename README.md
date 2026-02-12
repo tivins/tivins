@@ -19,18 +19,9 @@ Development (PHP, C++, C, Python) · France
 - [**API Interface and DTO**](https://github.com/tivins/poc-api-interface) — API generated request/response DTOs, a typed handler interface - [![CI](https://github.com/tivins/poc-api-interface/actions/workflows/ci.yml/badge.svg)](https://github.com/tivins/poc-api-interface/actions/workflows/ci.yml)
 - [**Liskov principle violation detector**](https://github.com/tivins/poc-liskov-check) — Detects Liskov Substitution Principle (LSP) violations in PHP Code - [![CI](https://github.com/tivins/poc-liskov-check/actions/workflows/ci.yml/badge.svg)](https://github.com/tivins/poc-liskov-check/actions/workflows/ci.yml)
 
-### Other Repositories
 
-- [**assistant**][assistant] — Terminal AI assistant (Python).
-- [**libln**][libln] — Big integers library in C.
-- [**lnprime**][lnprime] — Next prime number (uses libln).
-- [**webback**][webback]
-- [**webfront**][webfront]
-
-### Legacy
-
-- [**database**][database] — Fluid PDO wrapper (PHP). No longer used.
-- [**php-common**][php-common] — Deprecated; useful components to keep.
+> [!NOTE] 
+> Checkout [tivins.github.io][site]!
 
 ---
 
