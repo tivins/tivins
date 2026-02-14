@@ -7,17 +7,17 @@ Development (PHP, C++, C, Python) · France
 
 ### In Progress
 
+- **vxEngine** — Vulkan based 3D realtime rendering engine.
 - [**taskman**][taskman] — Project management for AI pipelines (MCP, CLI, web, SQLite). [![Release][taskman-badge]][taskman-action]
 - [**comprendre**][comprendre] — Documentation in French (patterns, concepts, frameworks, tests).
 - [**vvm**][vvm] — Object-oriented, statically typed language (C++). ![vvm][vvm-badge]
 - [**Deven**][deven] — Dockerized PHP environment, GPU / AI support.
-- **vxEngine** — Vulkan based 3D realtime rendering engine.
+- [**Liskov principle violation detector**](https://github.com/tivins/php-liskov) — Detects Liskov Substitution Principle (LSP) violations in PHP Code - [![CI](https://github.com/tivins/poc-liskov-check/actions/workflows/ci.yml/badge.svg)](https://github.com/tivins/poc-liskov-check/actions/workflows/ci.yml)
 
 ### PoC
 
 - [**Inferred Dependency Injection**][poc-di] — Automatic dependency injection in PHP (reflection). [![Tests][poc-di-badge]][poc-di-actions]
 - [**API Interface and DTO**](https://github.com/tivins/poc-api-interface) — API generated request/response DTOs, a typed handler interface - [![CI](https://github.com/tivins/poc-api-interface/actions/workflows/ci.yml/badge.svg)](https://github.com/tivins/poc-api-interface/actions/workflows/ci.yml)
-- [**Liskov principle violation detector**](https://github.com/tivins/poc-liskov-check) — Detects Liskov Substitution Principle (LSP) violations in PHP Code - [![CI](https://github.com/tivins/poc-liskov-check/actions/workflows/ci.yml/badge.svg)](https://github.com/tivins/poc-liskov-check/actions/workflows/ci.yml)
 
 ---
 
