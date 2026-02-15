@@ -12,7 +12,7 @@ Development (PHP, C++, C, Python) · France
 - [**comprendre**][comprendre] — Documentation in French (patterns, concepts, frameworks, tests).
 - [**vvm**][vvm] — Object-oriented, statically typed language (C++). ![vvm][vvm-badge]
 - [**Deven**][deven] — Dockerized PHP environment, GPU / AI support.
-- [**PHP Liskov**](https://github.com/tivins/php-liskov) — Detects Liskov Substitution Principle (LSP) violations in PHP Code - [![CI](https://github.com/tivins/poc-liskov-check/actions/workflows/ci.yml/badge.svg)](https://github.com/tivins/poc-liskov-check/actions/workflows/ci.yml)
+- [**PHP Solid**](https://github.com/tivins/php-solid) — Detects Liskov Substitution Principle (LSP), Interface Segregation Principle (ISP) violations in PHP Code - [![CI](https://github.com/tivins/poc-liskov-check/actions/workflows/ci.yml/badge.svg)](https://github.com/tivins/poc-liskov-check/actions/workflows/ci.yml)
 
 ### PoC
 
