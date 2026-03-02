@@ -5,7 +5,12 @@ Development (PHP, C++, C, Python) · France
 
 ---
 
-### In Progress
+###  In Progress
+
+- [NLVM Specifications](https://github.com/tivins/vm-specs)
+- [Orchestra](https://github.com/tivins/orchestra)
+
+### Recent
 
 - **vxEngine** — Vulkan based 3D realtime rendering engine.
 - [**taskman**][taskman] — Project management for AI pipelines (MCP, CLI, web, SQLite). [![Release][taskman-badge]][taskman-action]
