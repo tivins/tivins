@@ -1,18 +1,22 @@
 # tivins
 
-Development (PHP, C++, C, Python) · France  
-[Website][site] · [Stack Overflow][so]
+Software architecture & Development <br>
+PHP, C++, C, Java, Python, ...<br>
+[Website][site] · [Stack Overflow][so]<br>
 
 ---
 
-###  In Progress
+###  In Progress 🔥 / Planned ⏱️
 
-- [NLVM Specifications](https://github.com/tivins/nlvm-specs)
-- [Orchestra](https://github.com/tivins/orchestra)
+* **[Orchestra](https://github.com/tivins/orchestra)** : **active**
+* [NLVM Specifications](https://github.com/tivins/nlvm-specs); nlvm-implementation planned
+* vxRender Specifications / vxRender implementation  -- planned
 
-### maintained
+### Maintained
 
 - [**PHP Solid**](https://github.com/tivins/php-solid) — Detects Liskov Substitution Principle (LSP), Interface Segregation Principle (ISP) violations in PHP Code - [![CI](https://github.com/tivins/poc-liskov-check/actions/workflows/ci.yml/badge.svg)](https://github.com/tivins/poc-liskov-check/actions/workflows/ci.yml)
+
+---
 
 ### Recent
 
