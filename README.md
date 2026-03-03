@@ -7,7 +7,7 @@ Development (PHP, C++, C, Python) · France
 
 ###  In Progress
 
-- [NLVM Specifications](https://github.com/tivins/vm-specs)
+- [NLVM Specifications](https://github.com/tivins/nlvm-specs)
 - [Orchestra](https://github.com/tivins/orchestra)
 
 ### Recent
