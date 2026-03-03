@@ -10,6 +10,10 @@ Development (PHP, C++, C, Python) · France
 - [NLVM Specifications](https://github.com/tivins/nlvm-specs)
 - [Orchestra](https://github.com/tivins/orchestra)
 
+### maintained
+
+- [**PHP Solid**](https://github.com/tivins/php-solid) — Detects Liskov Substitution Principle (LSP), Interface Segregation Principle (ISP) violations in PHP Code - [![CI](https://github.com/tivins/poc-liskov-check/actions/workflows/ci.yml/badge.svg)](https://github.com/tivins/poc-liskov-check/actions/workflows/ci.yml)
+
 ### Recent
 
 - **vxEngine** — Vulkan based 3D realtime rendering engine.
@@ -17,7 +21,6 @@ Development (PHP, C++, C, Python) · France
 - [**comprendre**][comprendre] — Documentation in French (patterns, concepts, frameworks, tests).
 - [**vvm**][vvm] — Object-oriented, statically typed language (C++). ![vvm][vvm-badge]
 - [**Deven**][deven] — Dockerized PHP environment, GPU / AI support.
-- [**PHP Solid**](https://github.com/tivins/php-solid) — Detects Liskov Substitution Principle (LSP), Interface Segregation Principle (ISP) violations in PHP Code - [![CI](https://github.com/tivins/poc-liskov-check/actions/workflows/ci.yml/badge.svg)](https://github.com/tivins/poc-liskov-check/actions/workflows/ci.yml)
 
 ### PoC
 
