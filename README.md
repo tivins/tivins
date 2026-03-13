@@ -10,7 +10,7 @@ PHP, C++, C, Java, Python, ...<br>
 
 * **[Orchestra](https://github.com/tivins/orchestra)** (active)
 * [NLVM Specifications](https://github.com/tivins/nlvm-specs) (active) / nlvm-implementation (planned)
-* vxRender Specifications / vxRender implementation (planned)
+* vxRender Specifications / [vxRender](https://github.com/tivins/vx2026) implementation (planned)
 
 ### Maintained
 
