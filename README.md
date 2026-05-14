@@ -6,11 +6,11 @@ PHP, C++, C, Java, Python, ...<br>
 
 ---
 
-###  In Progress 🔥 / Planned ⏱️
+###  In Progress 🔥
 
-* **[Orchestra](https://github.com/tivins/orchestra)** (active)
-* [NLVM Specifications](https://github.com/tivins/nlvm-specs) (active) / nlvm-implementation (planned)
-* vxRender Specifications / [vxRender](https://github.com/tivins/vx2026) implementation (planned)
+* **[llm-php](https://github.com/tivins/llm-php)**
+* **[tui](https://github.com/tivins/tui)**
+* **[llm-code](https://github.com/tivins/llm-code)**
 
 ### Maintained
 
@@ -20,6 +20,10 @@ PHP, C++, C, Java, Python, ...<br>
 
 ### Recent
 
+* **[Orchestra](https://github.com/tivins/orchestra)** (active)
+* **[Orchestra](https://github.com/tivins/orchestra)** (active)
+* [NLVM Specifications](https://github.com/tivins/nlvm-specs) (active) / nlvm-implementation (planned)
+* vxRender Specifications / [vxRender](https://github.com/tivins/vx2026) implementation (planned)
 - **vxEngine** — Vulkan based 3D realtime rendering engine.
 - [**taskman**][taskman] — Project management for AI pipelines (MCP, CLI, web, SQLite). [![Release][taskman-badge]][taskman-action]
 - [**comprendre**][comprendre] — Documentation in French (patterns, concepts, frameworks, tests).
