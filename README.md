@@ -6,6 +6,21 @@ PHP, C++, C, Java, Python, ...<br>
 
 ---
 
+Stack
+
+* tivins/llm-stack + tivins/llm-stack-sdk
+* tivins/llm-lib
+* tivins/llm-music + tivins/llm-music-sdk
+* tivins/tts + tivins/tts-sdk
+* tivins/llm-image-sdk
+
+* memory
+* workflow
+     
+
+
+---
+
 ###  In Progress 🔥
 
 * **[llm-php](https://github.com/tivins/llm-php)**
