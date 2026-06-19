@@ -14,7 +14,7 @@ Stack
 * tivins/tts (llm + api) + tivins/tts-sdk (PHP wrapper)
 * tivins/llm-image-sdk (PHP wrapper) + (invoke / comfyUI)
 
-* memory
+* memory (embedding + rerank)
 * workflow
      
 
