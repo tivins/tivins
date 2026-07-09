@@ -9,12 +9,16 @@ PHP, C++, C, Java, Python, ...<br>
 Stack
 
 * Stack management<br>[llm-stack](https://github.com/tivins/llm-stack) (software) + [llm-stack-sdk](https://github.com/tivins/llm-stack-sdk) (PHP wrapper)
-* Text generation<br>[llm-lib-ts](https://github.com/tivins/llm-lib-ts) + openai api compatible endpoint
+* LLM<br>[llm-lib-ts](https://github.com/tivins/llm-lib-ts)
+* Memory (embedding + rerank)<br>[llm-memory-ts](https://github.com/tivins/llm-memory-ts)
+* workflow
+
+spe
+  
 * Music generation<br>[llm-music](https://github.com/tivins/llm-music) (llm + api) + [llm-music-sdk](https://github.com/tivins/llm-music-sdk) (PHP Wrapper)
 * tivins/tts (llm + api) + tivins/tts-sdk (PHP wrapper)
 * tivins/llm-image-sdk (PHP wrapper) + (invoke / comfyUI)
-* memory (embedding + rerank)<br>[llm-memory-ts](https://github.com/tivins/llm-memory-ts)
-* workflow
+
      
 
 
