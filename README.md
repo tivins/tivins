@@ -17,7 +17,8 @@ PHP, C++, C, Java, TypeScript, Python, ...<br>
 
 * [nlvm-specs](https://github.com/tivins/nlvm-specs) - NLVM Specifications *(Markdown)*
 * [nlvm](https://github.com/tivins/nlvm) - NLVM Implementation *(Rust)*
-     
+* [vvm][vvm] *(archived)* - Initial version *(C++)*
+
 ---
 
 ### other
@@ -27,12 +28,11 @@ PHP, C++, C, Java, TypeScript, Python, ...<br>
 * tivins/llm-image-ts
 * [Orchestra](https://github.com/tivins/orchestra)
 * vxRender Specifications / [vxRender](https://github.com/tivins/vx2026) implementation (planned)
-- **vxEngine** — Vulkan based 3D realtime rendering engine.
-- [**taskman**][taskman] — Project management for AI pipelines (MCP, CLI, web, SQLite). [![Release][taskman-badge]][taskman-action]
-- [**comprendre**][comprendre] — Documentation in French (patterns, concepts, frameworks, tests).
-- [**vvm**][vvm] — Object-oriented, statically typed language (C++).
-- [**Deven**][deven] — Dockerized PHP environment, GPU / AI support.
-- [**PHP Solid**](https://github.com/tivins/php-solid) — Detects Liskov Substitution Principle (LSP), Interface Segregation Principle (ISP) violations in PHP Code - [![CI](https://github.com/tivins/poc-liskov-check/actions/workflows/ci.yml/badge.svg)](https://github.com/tivins/poc-liskov-check/actions/workflows/ci.yml)
+* vxEngine — Vulkan based 3D realtime rendering engine.
+* [taskman][taskman] — Project management for AI pipelines (MCP, CLI, web, SQLite).
+* [comprendre][comprendre] — Documentation in French (patterns, concepts, frameworks, tests).
+* [Deven][deven] — Dockerized PHP environment, GPU / AI support.
+* [PHP Solid](https://github.com/tivins/php-solid) — Detects Liskov Substitution Principle (LSP), Interface Segregation Principle (ISP) violations in PHP Code
 
 ### PoC
 
