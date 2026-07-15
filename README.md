@@ -1,51 +1,38 @@
 # tivins
 
 Software architecture & Development <br>
-PHP, C++, C, Java, Typescript, Python, ...<br>
+PHP, C++, C, Java, TypeScript, Python, ...<br>
 [Website][site] · [Stack Overflow][so]<br>
 
 ---
 
 ### LLM
 
-* [llm-stack-ts](https://github.com/tivins/llm-stack-ts) - Stack management
-* [llm-lib-ts](https://github.com/tivins/llm-lib-ts) - Inference wrapper
-* [llm-memory-ts](https://github.com/tivins/llm-memory-ts) - Semantic memory
+* [llm-stack-ts](https://github.com/tivins/llm-stack-ts) - Stack management *(TypeScript, Bun)*
+* [llm-lib-ts](https://github.com/tivins/llm-lib-ts) - Inference wrapper *(TypeScript, Bun)*
+* [llm-memory-ts](https://github.com/tivins/llm-memory-ts) - Semantic memory *(TypeScript, Bun)*
 
 
 ### NLVM
 
-* [nlvm-specs](https://github.com/tivins/nlvm-specs) - NLVM Specifications
-* [nlvm](https://github.com/tivins/nlvm) - NLVM Implementation
+* [nlvm-specs](https://github.com/tivins/nlvm-specs) - NLVM Specifications *(Markdown)*
+* [nlvm](https://github.com/tivins/nlvm) - NLVM Implementation *(Rust)*
      
-
-
 ---
 
-### next
+### other
 
-* **[llm-code](https://github.com/tivins/llm-code)**
-* Music generation<br>[llm-music](https://github.com/tivins/llm-music) (llm + api) + [llm-music-sdk](https://github.com/tivins/llm-music-sdk) (PHP Wrapper)
-* tivins/tts (llm + api) + tivins/tts-sdk (PHP wrapper)
-* tivins/llm-image-sdk (PHP wrapper) + (invoke / comfyUI)
-
-### Maintained
-
-- [**PHP Solid**](https://github.com/tivins/php-solid) — Detects Liskov Substitution Principle (LSP), Interface Segregation Principle (ISP) violations in PHP Code - [![CI](https://github.com/tivins/poc-liskov-check/actions/workflows/ci.yml/badge.svg)](https://github.com/tivins/poc-liskov-check/actions/workflows/ci.yml)
-
----
-
-### Other
-
-* **[llm-php](https://github.com/tivins/llm-php)**
-* **[tui](https://github.com/tivins/tui)**
-* **[Orchestra](https://github.com/tivins/orchestra)** (active)
+* Music generation - [llm-music](https://github.com/tivins/llm-music) (llm + api) + [llm-music-sdk](https://github.com/tivins/llm-music-sdk)
+* tivins/llm-tts (python/ts)
+* tivins/llm-image-ts
+* [Orchestra](https://github.com/tivins/orchestra)
 * vxRender Specifications / [vxRender](https://github.com/tivins/vx2026) implementation (planned)
 - **vxEngine** — Vulkan based 3D realtime rendering engine.
 - [**taskman**][taskman] — Project management for AI pipelines (MCP, CLI, web, SQLite). [![Release][taskman-badge]][taskman-action]
 - [**comprendre**][comprendre] — Documentation in French (patterns, concepts, frameworks, tests).
-- [**vvm**][vvm] — Object-oriented, statically typed language (C++). ![vvm][vvm-badge]
+- [**vvm**][vvm] — Object-oriented, statically typed language (C++).
 - [**Deven**][deven] — Dockerized PHP environment, GPU / AI support.
+- [**PHP Solid**](https://github.com/tivins/php-solid) — Detects Liskov Substitution Principle (LSP), Interface Segregation Principle (ISP) violations in PHP Code - [![CI](https://github.com/tivins/poc-liskov-check/actions/workflows/ci.yml/badge.svg)](https://github.com/tivins/poc-liskov-check/actions/workflows/ci.yml)
 
 ### PoC
 
