@@ -1,34 +1,33 @@
 # tivins
 
 Software architecture & Development <br>
-PHP, C++, C, Java, Python, ...<br>
+PHP, C++, C, Java, Typescript, Python, ...<br>
 [Website][site] · [Stack Overflow][so]<br>
 
 ---
 
-Stack
+### LLM
 
-* Stack management<br>[llm-stack](https://github.com/tivins/llm-stack) (software) + [llm-stack-sdk](https://github.com/tivins/llm-stack-sdk) (PHP wrapper)
-* LLM<br>[llm-lib-ts](https://github.com/tivins/llm-lib-ts)
-* Memory (embedding + rerank)<br>[llm-memory-ts](https://github.com/tivins/llm-memory-ts)
-* workflow
+* [llm-stack-ts](https://github.com/tivins/llm-stack-ts) - Stack management
+* [llm-lib-ts](https://github.com/tivins/llm-lib-ts) - Inference wrapper
+* [llm-memory-ts](https://github.com/tivins/llm-memory-ts) - Semantic memory
 
-spe
-  
-* Music generation<br>[llm-music](https://github.com/tivins/llm-music) (llm + api) + [llm-music-sdk](https://github.com/tivins/llm-music-sdk) (PHP Wrapper)
-* tivins/tts (llm + api) + tivins/tts-sdk (PHP wrapper)
-* tivins/llm-image-sdk (PHP wrapper) + (invoke / comfyUI)
 
+### NLVM
+
+* [nlvm-specs](https://github.com/tivins/nlvm-specs) - NLVM Specifications
+* [nlvm](https://github.com/tivins/nlvm) - NLVM Implementation
      
 
 
 ---
 
-###  In Progress 🔥
+### next
 
-* **[llm-php](https://github.com/tivins/llm-php)**
-* **[tui](https://github.com/tivins/tui)**
 * **[llm-code](https://github.com/tivins/llm-code)**
+* Music generation<br>[llm-music](https://github.com/tivins/llm-music) (llm + api) + [llm-music-sdk](https://github.com/tivins/llm-music-sdk) (PHP Wrapper)
+* tivins/tts (llm + api) + tivins/tts-sdk (PHP wrapper)
+* tivins/llm-image-sdk (PHP wrapper) + (invoke / comfyUI)
 
 ### Maintained
 
@@ -36,11 +35,11 @@ spe
 
 ---
 
-### Recent
+### Other
 
+* **[llm-php](https://github.com/tivins/llm-php)**
+* **[tui](https://github.com/tivins/tui)**
 * **[Orchestra](https://github.com/tivins/orchestra)** (active)
-* **[Orchestra](https://github.com/tivins/orchestra)** (active)
-* [NLVM Specifications](https://github.com/tivins/nlvm-specs) (active) / nlvm-implementation (planned)
 * vxRender Specifications / [vxRender](https://github.com/tivins/vx2026) implementation (planned)
 - **vxEngine** — Vulkan based 3D realtime rendering engine.
 - [**taskman**][taskman] — Project management for AI pipelines (MCP, CLI, web, SQLite). [![Release][taskman-badge]][taskman-action]
