@@ -15,8 +15,8 @@ PHP, C++, C, Java, TypeScript, Python, ...<br>
 
 ### NLVM
 
-* [nlvm-specs](https://github.com/tivins/nlvm-specs) - NLVM Specifications *(Markdown)*
-* [nlvm](https://github.com/tivins/nlvm) - NLVM Implementation *(Rust)*
+* [nlvm-specs](https://github.com/nlvm-lang/nlvm-specs) - NLVM Specifications *(Markdown)*
+* [nlvm](https://github.com/nlvm-lang/nlvm) - NLVM Implementation *(Rust)*
 * [vvm][vvm] *(archived)* - Initial version *(C++)*
 
 ---
