@@ -6,29 +6,15 @@ Software architect & developer · TypeScript, PHP, C++, Rust, Python ·
 [YouTube][yt] · [Stack Overflow][so] (750+ answers)
 
 ```mermaid
-flowchart LR
-  subgraph Bricks
-    stack[llm-stack-ts<br><i>services + shared GPU lease</i>]
-    lib[llm-lib-ts<br><i>LLM client, agents, tools</i>]
-    mem[llm-memory-ts<br><i>semantic memory</i>]
-    comfy[comfyui-client-ts<br><i>image · video · music</i>]
-    ui[ts-ui<br><i>terminal UI</i>]
-  end
-  subgraph Local services
-    llama[llama.cpp]
-    comfyui[ComfyUI]
-    pg[(Postgres + pgvector)]
-  end
-  subgraph Apps
-    studio[Studio<br><i>images, videos, songs</i>]
-    chat[Chat<br><i>multi-bot, memory</i>]
-    more[forums, quizzes,<br>widgets, …]
-  end
-  stack --> llama & comfyui
-  lib --> llama
-  comfy --> comfyui
-  mem --> pg
-  Bricks --> Apps
+flowchart TB
+  studio["Studio · images, videos, songs"] & chat["Chat · multi-bot, memory"] & more["forums, quizzes, widgets…"]
+  studio & chat & more --> lib["llm-lib-ts · LLM, agents, tools"]
+  studio --> comfy["comfyui-client-ts · image, video, music"]
+  chat --> mem["llm-memory-ts · semantic memory"]
+  lib --> llama["llama.cpp"]
+  comfy --> comfyui["ComfyUI"]
+  mem --> pg[("Postgres + pgvector")]
+  stack["llm-stack-ts · starts services, shares the GPU"] -.-> llama & comfyui
 ```
 
 ## Bricks
